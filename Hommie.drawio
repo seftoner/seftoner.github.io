@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2024-01-23T16:31:12.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="1QjXQ0bk4eoaPeJEpNyo" version="22.1.22" type="github">
+  <diagram name="Page-1" id="0hhDoIFbY9vzt40Z4bVE">
+    <mxGraphModel dx="942" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mWJoUpGN9ssvRqmaIF9M-1" value="Entities&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="133" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mWJoUpGN9ssvRqmaIF9M-2" value="Devices" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mWJoUpGN9ssvRqmaIF9M-3" value="States" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mWJoUpGN9ssvRqmaIF9M-5" value="Services" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
